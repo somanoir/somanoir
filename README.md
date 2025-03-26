@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img alt="Soma Noir's GitHub Stats" height="250" width="48%" src="https://github-readme-stats-delta-seven.vercel.app/api?username=somanoir&theme=panda&bg_color=00000000&hide=issues,contribs&show=prs_merged&show_icons=true&hide_rank=true&include_all_commits=true" />
-  <img alt="Soma Noir's Top Languages" height="250" width="48%" src="https://github-readme-stats-delta-seven.vercel.app/api/top-langs/??username=somanoir&theme=panda&bg_color=00000000&layout=compact" />
-</div>
+<a href="https://github.com/somanoir">
+  <img alt="Soma Noir's GitHub Stats" height=250 align="center"  src="https://github-readme-stats-delta-seven.vercel.app/api?username=somanoir&theme=panda&bg_color=00000000&hide=issues,contribs&show=prs_merged&show_icons=true&hide_rank=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/somanoir">
+  <img alt="Soma Noir's Top Languages" height=250 align="center" src="https://github-readme-stats-delta-seven.vercel.app/api/top-langs/??username=somanoir&theme=panda&bg_color=00000000&layout=compact" />
+</a>
