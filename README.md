@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img alt="Soma Noir's GitHub Stats"  height=270 width="400px" src="https://github-readme-stats-delta-seven.vercel.app/api?username=somanoir&theme=panda&bg_color=00000000&card_width=290px&hide=issues,contribs&show=prs_merged&show_icons=true&hide_rank=true&include_all_commits=true" />
+  <img alt="Soma Noir's GitHub Stats"  height=270 width="400px" src="https://github-readme-stats-delta-seven.vercel.app/api?username=somanoir&theme=panda&bg_color=00000000&card_width=290px&hide=contribs&show_icons=true&hide_rank=true&include_all_commits=true" />
   <img alt="Soma Noir's Top Languages" height=270 width="400px" src="https://github-readme-stats-delta-seven.vercel.app/api/top-langs?username=somanoir&theme=panda&bg_color=00000000&card_width=295px&layout=compact" />
 </div>
